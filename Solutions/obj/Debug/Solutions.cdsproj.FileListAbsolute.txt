@@ -1,0 +1,2 @@
+C:\Users\Digital-Dividend\Documents\GitHub\pcfcolorfuloptionsetButton\Solutions\obj\Debug\Solutions.cdsproj.AssemblyReference.cache
+C:\Users\Digital-Dividend\Documents\GitHub\pcfcolorfuloptionsetButton\Solutions\obj\Debug\Solutions.cdsproj.CoreCompileInputs.cache

@@ -1,0 +1,30 @@
+.btn-group button {
+  background-color: transparent; /* Transparent background */
+  border-right: 1px solid white;
+  border-bottom: none white;
+  border-top: none white;
+  border-left: none white;
+  color: white; /* White text */
+  padding: 0 24px 1px 24px;
+  cursor: pointer;
+  float: left;
+  font-weight: normal;
+  font-size: 13px;
+  font-family: "SegoeUI", "Segoe UI";
+  height: 28px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  outline: none;
+}
+
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:last-child {
+  border-right: none; /* Prevent double borders */
+}

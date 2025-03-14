@@ -1,0 +1,20 @@
+2025-03-13 14:51:53.185 - Info	
+Packing C:\Users\Digital-Dividend\Documents\GitHub\pcfcolorfuloptionsetButton\Solutions\obj\Debug\Metadata to bin\Debug\Solutions.zip
+
+2025-03-13 14:51:53.197 - Info	Processing Component: Entities
+2025-03-13 14:51:53.198 - Info	Processing Component: Roles
+2025-03-13 14:51:53.201 - Info	Processing Component: Workflows
+2025-03-13 14:51:53.201 - Info	Processing Component: FieldSecurityProfiles
+2025-03-13 14:51:53.201 - Info	Processing Component: Templates
+2025-03-13 14:51:53.202 - Info	Processing Component: EntityMaps
+2025-03-13 14:51:53.202 - Info	Processing Component: EntityRelationships
+2025-03-13 14:51:53.205 - Info	Processing Component: OrganizationSettings
+2025-03-13 14:51:53.205 - Info	Processing Component: optionsets
+2025-03-13 14:51:53.205 - Info	Processing Component: CustomControls
+2025-03-13 14:51:53.211 - Info	 - dev.NewColorfulOptionSetButton
+2025-03-13 14:51:53.216 - Info	Processing Component: SolutionPluginAssemblies
+2025-03-13 14:51:53.217 - Info	Processing Component: EntityDataProviders
+2025-03-13 14:51:53.227 - Info	Processing Sharded Component Files
+2025-03-13 14:51:53.255 - Info	
+Unmanaged Pack complete.
+

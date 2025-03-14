@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYUJVOGAL0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Digital-Dividend\\Documents\\GitHub\\pcfcolorfuloptionsetButton\\Solutions\\Solutions.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Digital-Dividend\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Digital-Dividend\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Digital-Dividend\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.40.4\\microsoft.powerapps.msbuild.pcf.1.40.4.nupkg.sha512",
+    "C:\\Users\\Digital-Dividend\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.40.4\\microsoft.powerapps.msbuild.solution.1.40.4.nupkg.sha512"
+  ],
+  "logs": []
+}
